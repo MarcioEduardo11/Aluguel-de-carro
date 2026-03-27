@@ -113,3 +113,27 @@ Registro do status de cada reserva no banco de dados, atualizado automaticamente
 
 ### Para que serve:
 Informar ao usuário e ao administrador a situação atual de cada reserva de forma clara.
+
+## FAQ (perguntas frequentes)
+
+### Como será feito:
+Seção com perguntas e respostas comuns, organizada por categorias e acessível no site.
+
+### Para que serve:
+Esclarecer dúvidas dos usuários de forma rápida, reduzindo a necessidade de suporte direto.
+
+## Compartilhamento de veículos favoritos
+
+### Como será feito:
+Opção para o usuário selecionar veículos favoritos e compartilhar via link ou redes sociais.
+
+### Para que serve:
+Permitir que o usuário compartilhe seus veículos preferidos com amigos ou familiares.
+
+## Mapa com localização das agências
+
+### Como será feito:
+Integração com API de mapas para exibir a posição das agências no mapa interativo.
+
+### Para que serve:
+Facilitar que o usuário encontre e planeje a visita às agências mais próximas.
