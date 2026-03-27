@@ -1,3 +1,4 @@
+
 ## cadastro de usuário
 ### Como será feito:
  Formulário HTML5 com validação de campos via JavaScript (E-mail, CPF, Nome). Os dados são enviados e salvos em uma tabela usuarios no banco de dados SQL.
@@ -36,9 +37,11 @@ Permitir que o usuário recupere o acesso à sua conta sem precisar criar um nov
 ### Para que serve:
  Manter o catálogo de carros atualizado para os clientes.
 
-## Listagem de veículos
+## Listagem de veículos disponíveis.
 ### Como será feito:
  Painel administrativo em HTML/CSS para inserir dados como Placa, Modelo, Marca e Valor da Diária, salvando tudo no banco de dados.
 
 ### Para que serve:
  Manter o catálogo de carros atualizado para os clientes.
+
+

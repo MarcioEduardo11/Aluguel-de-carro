@@ -40,6 +40,6 @@ Baixa
 
 BRUNO   Suporte a múltiplos idiomas                     Baixa
 BRUNO   Chat de suporte ao cliente                      Baixa
-BRUNO   FAQ (Perguntas frequentes)                      Baixa
-BRUNO   Compartilhamento de veículos favoritos          Baixa
-BRUNO   Mapa com localização das agências               Baixa
+VICTOR   FAQ (Perguntas frequentes)                     Baixa
+VICTOR  Compartilhamento de veículos favoritos          Baixa
+VICTOR  Mapa com localização das agências               Baixa
