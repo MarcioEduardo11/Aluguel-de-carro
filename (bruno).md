@@ -23,7 +23,9 @@ Autenticar o cliente e garantir que apenas pessoas autorizadas acessem áreas re
 
 ### Para que serve: 
 Permitir que o usuário recupere o acesso à sua conta sem precisar criar um novo cadastro.
+
 ## Recuperação de senha.
+
 ### Como será feito:
  Interface simples para digitar o e-mail. O sistema gera um link ou código via JavaScript/Backend e atualiza a senha no SQL (UPDATE).
 
