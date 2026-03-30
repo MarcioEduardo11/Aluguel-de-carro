@@ -14,6 +14,7 @@ O foco deste trabalho está na aplicação de metodologias ágeis (Scrum e Kanba
 * Nome do Aluno 2 – Joao Guilherme (SM)
 * Nome do Aluno 3 – Bruno Caldas
 * Nome do Aluno 4 – Victor Nascimento
+* Nome do Aluno 5 – Wagner Borga
 
 
 ---
