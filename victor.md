@@ -1,27 +1,3 @@
-## Seleção de datas de retirada e devolução 
-
-### Como será feito: 
-Seleção das datas, validação, verificação de disponibilidade e cálculo do valor.
-
-### Para que serve:
-Definir o período, evitar conflitos e calcular o preço do aluguel.
-
-## Cálculo automático do valor do aluguel
-
-### Como será feito:
-Sistema calcula o valor com base no período selecionado e na tarifa definida.
-
-### Para que serve:
-Exibir ao usuário o custo total do aluguel de forma automática e precisa.
-
-## Verificar disponibilidade do veículo
-
-### Como será feito:
-Consulta ao banco de dados para checar se o veículo está livre nas datas selecionadas.
-
-### Para que serve:
-Garantir que o veículo possa ser reservado no período escolhido.
-
 
 ## Cancelamento de reserva
 
@@ -105,21 +81,6 @@ Geração de relatórios detalhados com dados de reservas, filtráveis por perí
 ### Para que serve:
 Permitir aos administradores monitorar e analisar a atividade de reservas no sistema.
 
-## Integração com pagamento (simulado)
-
-### Como será feito:
-Simulação de transações financeiras para testar processos de pagamento sem envolver dinheiro real.
-
-### Para que serve:
-Validar o fluxo de pagamento e garantir que o sistema calcula e confirma pagamentos corretamente.
-
-## Status da reserva (ativa, concluída, cancelada)
-
-### Como será feito:
-Registro do status de cada reserva no banco de dados, atualizado automaticamente conforme ações do usuário ou administrador.
-
-### Para que serve:
-Informar ao usuário e ao administrador a situação atual de cada reserva de forma clara.
 
 ## FAQ (perguntas frequentes)
 
@@ -129,10 +90,6 @@ Seção com perguntas e respostas comuns, organizada por categorias e acessível
 ### Para que serve:
 Esclarecer dúvidas dos usuários de forma rápida, reduzindo a necessidade de suporte direto.
 
-## Compartilhamento de veículos favoritos
-
-### Como será feito:
-Opção para o usuário selecionar veículos favoritos e compartilhar via link ou redes sociais.
 
 ### Para que serve:
 Permitir que o usuário compartilhe seus veículos preferidos com amigos ou familiares.
